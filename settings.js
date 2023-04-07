@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Nimesh Official'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongosh "mongodb://mongo:8srx0q0cRy7FORWk6xOX@containers-us-west-165.railway.app:5815"" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "" //email
 global.email_password = "" //application password email
